@@ -15,7 +15,7 @@ public class Main {
         System.out.println("credits "+ olli.credits());
     }*/
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         Teacher pekka = new Teacher("Pekka Mikkola", "Korsontie Street 1 03100 Vantaa", 1200);
         Teacher esko = new Teacher("Esko Ukkonen", "Mannerheimintie 15 Street 00100 Helsinki", 5400);
         System.out.println( pekka );
@@ -27,16 +27,14 @@ public class Main {
             olli.study();
         }
         System.out.println( olli );
-    }
+    }*/
 
-    public class Main {
-        public static void main(String[] args) {
+        /*public static void main(String[] args) {
         Circle c = new Circle("black", FillType.NOT_FILLED, 4.6);
             System.out.println(c);
 
         Rectangle sh = new Rectangle("belo", FillType.NOT_FILLED, 4.5, 12.4);
             System.out.println(sh);
-        }
-    }
+        }*/
 
 }
